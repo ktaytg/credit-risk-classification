@@ -7,11 +7,10 @@ Create a Logistic Regression Model with the Original Data
 
 Write a Credit Risk Analysis Report
 
-An overview of the analysis: Explain the purpose of this analysis.
+# An overview of the analysis: purpose of this analysis:
 To build a model that can determine creditworthiness of borrowers using a dataset of historical lending activity from a peer-to-peer lending services company. Use historical lending activity to train model.
 
-The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
-The balanced accuracy scores and the precision and recall scores of all machine learning models as below that were observed as part of the analysis.
+# The results: 
 
 Machine Learning Model 1: Logistics Regression model
 
